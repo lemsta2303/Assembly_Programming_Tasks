@@ -1,4 +1,4 @@
-# Labs 2 to 5: Assembly and C Programming Tasks
+# Assembly and C Programming Tasks
 
 ## Overview
 
